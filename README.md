@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XzylusProject
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me ? xzylusofficial@gmail.com
+- 🌱 I’m currently learning c++
 
 <!---
 XzylusProject/XzylusProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
